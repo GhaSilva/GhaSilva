@@ -10,7 +10,7 @@
  <div>
   <a href="https://github.com/GhaSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://c.tenor.com/eRwdyxU7MEAAAAAC/shokugeki-no.gif"/>
+  <img height="180em" src="https://gifer.com/AjA6"/>
 </div>
   
 </div>
