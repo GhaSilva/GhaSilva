@@ -35,8 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/node
   <a href="https://www.linkedin.com/in/ghabriel-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <img  height="180em" align="right" alt="Rafa-yoda" src="https://c.tenor.com/eRwdyxU7MEAAAAAC/shokugeki-no.gif">
-  ![Snake animation](https://github.com/GhaSilva/GhaSilva/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
   
 
